@@ -34,7 +34,7 @@ public class App extends JFrame implements ActionListener {
         button0 = new JButton("0");
         buttonAdd = new JButton("+");
         buttonSub = new JButton("-");
-        buttonMul = new JButton("x");
+        buttonMul = new JButton("X");
         buttonDiv = new JButton("/");
         buttonEqual = new JButton("=");
         buttonClear = new JButton("C");
